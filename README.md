@@ -22,4 +22,4 @@ Spanish-first Airbnb operations app prototype.
 Create Firebase project, add a Web App, then paste config into `src/firebase.js`.
 
 This version is a front-end working prototype. Database, login, and real photo upload are prepared for Firebase but not active until config is added and Firestore/Storage code is connected.
-Deplyment Update
+Deployment Update
